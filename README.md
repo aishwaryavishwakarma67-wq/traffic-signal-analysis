@@ -48,3 +48,6 @@ Found intersections with highest vehicle density
 Observed patterns in signal timing efficiency
 
 Suggested possible improvements in signal cycle duration
+
+AUTHOR 
+AISHWARYA VISHWAKARMA
